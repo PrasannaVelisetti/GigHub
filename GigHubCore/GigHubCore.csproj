@@ -15,5 +15,7 @@
 
   <ItemGroup>
     <Folder Include="Data\" />
+    <Folder Include="Views\Gigs\" />
+    <Folder Include="ViewModels\" />
   </ItemGroup>
 </Project>
