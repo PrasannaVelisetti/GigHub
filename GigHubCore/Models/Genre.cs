@@ -3,8 +3,7 @@ namespace GigHubCore.Models
 {
     public class Genre
     {
-        public Genre()
-        {
-        }
+        public byte Id { get; set; }
+        public string Name { get; set; }
     }
 }
